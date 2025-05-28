@@ -54,12 +54,12 @@ body {
 
 .cartao__conteudo__pergunta p {
     color: var(--text-color);
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
-    font-weight: 700;
+    font-weight: 600;
 }
 
 .cartao.active .cartao__conteudo {
@@ -83,7 +83,7 @@ body {
 
 footer {
     background-color: rgb(21, 4, 27);
-    color: rgba(170, 154, 175, 0.502);
+    color: rgba(210, 195, 214, 0.502);
     position: fixed;
     bottom: 0;
     width: 100%;
